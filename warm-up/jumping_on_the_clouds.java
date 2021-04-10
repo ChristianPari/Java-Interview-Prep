@@ -9,12 +9,7 @@ It is always possible to win the game.
 For each game, you will get an array of clouds numbered (0) if they are safe or (1) if they must be avoided.
  */
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class jumping_on_the_clouds {
 
